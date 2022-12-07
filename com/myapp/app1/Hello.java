@@ -1,3 +1,4 @@
+package com.myapp.app1
 Class Hello{
 
     public static void main(String args[]){
